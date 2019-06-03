@@ -23,6 +23,8 @@ public class MyGraphdfs {
 		mygraph.addNode(m3);
 		mygraph.addNode(m1);
 		mygraph.addNode(m0);
+		
+		
 		m0.getAdjacentNodes().add(m1);
 		m0.getAdjacentNodes().add(m2);
 		m1.getAdjacentNodes().add(m2);

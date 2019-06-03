@@ -36,10 +36,15 @@ public class FindSameStringsfromTwoLists {
 		
 		System.out.println("TEST");
 		s3.forEach(e -> System.out.println(e));
+		
+		
 		System.out.println("\n\n");
 		System.out.println("TEST111");
+		
 		availableInBoth.forEach(e -> System.out.println(e));
 		System.out.println("\n\n");
+		
+		
 		System.out.println("TEST1 222");
 		availableInBoth1.forEach(e -> System.out.println(e));
 		System.out.println("TEST1 333");
